@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Interview.ApiService/Interview.ApiService.csproj" />
+  <Project Path="Interview.AppHost/Interview.AppHost.csproj" />
+  <Project Path="Interview.BL/Interview.BL.csproj" />
+  <Project Path="Interview.Database/Interview.Database.csproj" />
+  <Project Path="Interview.Model/Interview.Model.csproj" />
+  <Project Path="Interview.ServiceDefaults/Interview.ServiceDefaults.csproj" />
+  <Project Path="Interview.Web/Interview.Web.csproj" />
+</Solution>

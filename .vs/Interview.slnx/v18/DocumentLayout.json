@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|c:\\users\\user\\source\\repos\\interview\\interview.apiservice\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|solutionrelative:interview.apiservice\\controller\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E858AC8D-D52C-A5A6-4FC0-49A260DB85EF}|Interview.BL\\Interview.BL.csproj|c:\\users\\user\\source\\repos\\interview\\interview.bl\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E858AC8D-D52C-A5A6-4FC0-49A260DB85EF}|Interview.BL\\Interview.BL.csproj|solutionrelative:interview.bl\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E858AC8D-D52C-A5A6-4FC0-49A260DB85EF}|Interview.BL\\Interview.BL.csproj|c:\\users\\user\\source\\repos\\interview\\interview.bl\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E858AC8D-D52C-A5A6-4FC0-49A260DB85EF}|Interview.BL\\Interview.BL.csproj|solutionrelative:interview.bl\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|c:\\users\\user\\source\\repos\\interview\\interview.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|solutionrelative:interview.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|c:\\users\\user\\source\\repos\\interview\\interview.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|solutionrelative:interview.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Interview\\Interview.BL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interview.BL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Interview\\Interview.BL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Interview.BL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:31:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Interview\\Interview.BL\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Interview.BL\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Interview\\Interview.BL\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Interview.BL\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:26:48.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Interview\\Interview.ApiService\\Controller\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Interview.ApiService\\Controller\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Interview\\Interview.ApiService\\Controller\\EmployeeController.cs",
+              "RelativeToolTip": "Interview.ApiService\\Controller\\EmployeeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T05:20:29.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Interview\\Interview.ApiService\\appsettings.json",
+              "RelativeDocumentMoniker": "Interview.ApiService\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Interview\\Interview.ApiService\\appsettings.json",
+              "RelativeToolTip": "Interview.ApiService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-25T10:15:33.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Interview\\Interview.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "Interview.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Interview\\Interview.ApiService\\Program.cs",
+              "RelativeToolTip": "Interview.ApiService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T09:28:52.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
