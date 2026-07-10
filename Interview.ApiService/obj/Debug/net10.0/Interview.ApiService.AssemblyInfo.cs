@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interview.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0b834c1e8beb692b1dcbdfb9a723dec4e74405")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interview.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interview.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

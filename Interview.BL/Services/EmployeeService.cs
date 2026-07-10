@@ -3,18 +3,19 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using Interview.BL.Repositories;
+using Interview.Model.DTOs;
 
 namespace Interview.BL.Services
 {
     public interface IEmployeeService
     {
-        Task<List<EmployeeModel>> GetEmployees();
+        Task<List<EmployeeDTO>> GetEmployees();
     }
-    public class EmployeeService(IEmployeeRepository employeeRepositoty) : IEmployeeService
+    public class EmployeeService(IEmployeeRepository employeeRepository) : IEmployeeService
     {
-        public Task<List<EmployeeModel>> GetEmployees()
+        public Task<List<EmployeeDTO>> GetEmployees()
         {
-            return employeeRepositoty.GetEmployees();
+            return employeeRepository.GetEmployees();
         }
     }
 }

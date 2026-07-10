@@ -15,9 +15,10 @@ namespace Interview.Database.Data
         {
             Database.EnsureCreated();
         }
-        public DbSet<EmployeeModel> Employees
-        {
-            get; set;
-        }
+        public DbSet<EmployeeModel> Employees { get; set; }
+        public DbSet<DepartmentModel> Departments { get;set; }
+
+   
     }
+    
 }

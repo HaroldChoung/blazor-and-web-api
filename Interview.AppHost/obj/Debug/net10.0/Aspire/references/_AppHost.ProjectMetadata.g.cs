@@ -17,5 +17,5 @@ public class Interview_AppHost
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\User\source\repos\interview\Interview.AppHost""";
+    public static string ProjectPath => """C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.AppHost""";
 }

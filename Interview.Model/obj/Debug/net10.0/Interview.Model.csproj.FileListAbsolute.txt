@@ -9,3 +9,15 @@ C:\Users\User\source\repos\interview\Interview.Model\obj\Debug\net10.0\Interview
 C:\Users\User\source\repos\interview\Interview.Model\obj\Debug\net10.0\refint\Interview.Model.dll
 C:\Users\User\source\repos\interview\Interview.Model\obj\Debug\net10.0\Interview.Model.pdb
 C:\Users\User\source\repos\interview\Interview.Model\obj\Debug\net10.0\ref\Interview.Model.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\bin\Debug\net10.0\Interview.Model.deps.json
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\bin\Debug\net10.0\Interview.Model.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\bin\Debug\net10.0\Interview.Model.pdb
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.sourcelink.json
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\refint\Interview.Model.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\Interview.Model.pdb
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.Model\obj\Debug\net10.0\ref\Interview.Model.dll

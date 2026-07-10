@@ -8,5 +8,7 @@ namespace Interview.Model.Entities
     {
         public int Id { get; set; }
         public string departmentName { get; set; }
+
+        public ICollection<EmployeeModel> Employee{ get; set; } =  new List<EmployeeModel>();
     }
 }

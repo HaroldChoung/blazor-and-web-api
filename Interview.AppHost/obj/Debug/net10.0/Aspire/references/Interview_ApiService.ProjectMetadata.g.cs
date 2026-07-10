@@ -15,7 +15,7 @@ public class Interview_ApiService : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the Interview_ApiService project.
     /// </summary>
-    public string ProjectPath => """C:\Users\User\source\repos\interview\Interview.ApiService\Interview.ApiService.csproj""";
+    public string ProjectPath => """C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\Interview.ApiService.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

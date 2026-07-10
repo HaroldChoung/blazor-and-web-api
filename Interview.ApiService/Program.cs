@@ -19,6 +19,9 @@ builder.Services.AddDbContext<AppDbContex>(options =>
 });
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>(); 
+
+builder.Services.AddScoped<IDepartmentService, DepartmentService>();
+builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
 //end changes
 
 // Add services to the container.

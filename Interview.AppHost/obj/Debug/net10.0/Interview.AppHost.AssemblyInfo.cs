@@ -12,19 +12,19 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aa39b922-a19c-417d-951f-5bfab1560871")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\User\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.2.4\\tools\\d" +
-    "cp.exe")]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\User\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.2.4\\tools\\e" +
-    "xt\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\User\\source\\repos\\interview\\Interview.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\PC\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.2.4\\tools\\dcp" +
+    ".exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\PC\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.2.4\\tools\\ext" +
+    "\\")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\PC\\Source\\Repos\\blazor-and-web-api\\Interview.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "Interview.AppHost.csproj")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\User\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.2.4\\tools\\Aspire.Da" +
-    "shboard.exe")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\User\\source\\repos\\interview\\Interview.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\PC\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.2.4\\tools\\Aspire.Dash" +
+    "board.exe")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\PC\\Source\\Repos\\blazor-and-web-api\\Interview.AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Interview.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0b834c1e8beb692b1dcbdfb9a723dec4e74405")]
 [assembly: System.Reflection.AssemblyProductAttribute("Interview.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Interview.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
