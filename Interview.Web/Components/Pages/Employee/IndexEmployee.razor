@@ -1,0 +1,62 @@
+﻿@page "/employee"
+@rendermode InteractiveServer
+@using System.Text.Json
+@using Interview.Web.Components.BaseComponents;
+@using Microsoft.AspNetCore.Authorization
+@using Microsoft.AspNetCore.Components.Authorization;
+@attribute [Authorize(Roles = "Admin,User")]
+<h3>Employee List</h3>
+
+<a class="btn btn-primary" href="/employee/create">Create</a>
+
+@if (employeeModel == null)
+{
+	<p>Loading ...</p>
+}
+else
+{
+	<pre>@*JsonSerializer.Serialize(employeeModel, new JsonSerializerOptions { WriteIndented = true })*@</pre>
+	<table class="table">
+		<thead>
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+				<th>Department</th>
+				<th>Action</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var employee in employeeModel)
+			{
+				<tr>
+					<td>@employee.id.ToString()</td>
+					<td>@employee.employeeName</td>
+					<td>@employee.department.departmentName</td>
+					<td>
+						<a class="btn btn-primary" href="/employee/update/@employee.id.ToString()">Update</a>
+						<AuthorizeView Roles="Admin">
+							<Authorized>
+								<button class="btn btn-danger" @onclick="()=> { DeleteID = employee.id; Modal.Open(); }">Delete</button>
+							</Authorized>
+						</AuthorizeView>
+					</td>
+				</tr>
+				
+			}
+		</tbody>
+	</table>
+	
+	
+	<AppModal @ref="Modal">
+		<Title>Notification</Title>
+		<Body>
+			Do you sure want to delete this product?
+		</Body>
+		<Footer>
+			<button type="button" class="btn btn-primary" style="width:80px" @onclick="HandleDelete">Yes</button>
+			<button type="button" class="btn btn-secondary" data-dismiss="modal" @onclick="() => Modal.Close()">Cancel</button>
+		</Footer>
+	</AppModal>
+	
+}
+

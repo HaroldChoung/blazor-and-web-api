@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.apiservice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|solutionrelative:interview.apiservice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\components\\pages\\employee\\indexemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\components\\pages\\employee\\indexemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\components\\pages\\login\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\components\\pages\\login\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF81E203-A927-E446-2B32-C89114885220}|Interview.Model\\Interview.Model.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.model\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF81E203-A927-E446-2B32-C89114885220}|Interview.Model\\Interview.Model.csproj|solutionrelative:interview.model\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\authentication\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\authentication\\customauthstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF81E203-A927-E446-2B32-C89114885220}|Interview.Model\\Interview.Model.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.model\\models\\loginrespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF81E203-A927-E446-2B32-C89114885220}|Interview.Model\\Interview.Model.csproj|solutionrelative:interview.model\\models\\loginrespondmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\components\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\components\\pages\\login\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|solutionrelative:interview.apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D603C58C-8F1E-D47C-6342-50D6B0B9CBD0}|Interview.ApiService\\Interview.ApiService.csproj|solutionrelative:interview.apiservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|c:\\users\\pc\\source\\repos\\blazor-and-web-api\\interview.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9707F81-E900-0300-CC3B-72D77795F65F}|Interview.Web\\Interview.Web.csproj|solutionrelative:interview.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.ApiService\\Program.cs",
+              "RelativeDocumentMoniker": "Interview.ApiService\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.ApiService\\Program.cs",
+              "RelativeToolTip": "Interview.ApiService\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T03:35:11.71Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Pages\\Login\\Login.razor",
+              "RelativeDocumentMoniker": "Interview.Web\\Components\\Pages\\Login\\Login.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Pages\\Login\\Login.razor",
+              "RelativeToolTip": "Interview.Web\\Components\\Pages\\Login\\Login.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T10:24:16.256Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.ApiService\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Interview.ApiService\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.ApiService\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Interview.ApiService\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:42:24.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexEmployee.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Pages\\Employee\\IndexEmployee.razor",
+              "RelativeDocumentMoniker": "Interview.Web\\Components\\Pages\\Employee\\IndexEmployee.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Pages\\Employee\\IndexEmployee.razor",
+              "RelativeToolTip": "Interview.Web\\Components\\Pages\\Employee\\IndexEmployee.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T16:36:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Interview.Web\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\ApiClient.cs",
+              "RelativeToolTip": "Interview.Web\\ApiClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwBcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:29:19.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomAuthStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "RelativeDocumentMoniker": "Interview.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "RelativeToolTip": "Interview.Web\\Authentication\\CustomAuthStateProvider.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:23:10.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Pages\\Login\\Logout.razor",
+              "RelativeDocumentMoniker": "Interview.Web\\Components\\Pages\\Login\\Logout.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Pages\\Login\\Logout.razor",
+              "RelativeToolTip": "Interview.Web\\Components\\Pages\\Login\\Logout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T16:20:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "Interview.Web\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Routes.razor",
+              "RelativeToolTip": "Interview.Web\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T16:17:20.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Interview.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\App.razor",
+              "RelativeToolTip": "Interview.Web\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T16:15:10.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Interview.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Interview.Web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-16T16:08:44.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRespondModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Model\\Models\\LoginRespondModel.cs",
+              "RelativeDocumentMoniker": "Interview.Model\\Models\\LoginRespondModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Model\\Models\\LoginRespondModel.cs",
+              "RelativeToolTip": "Interview.Model\\Models\\LoginRespondModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:02:39.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Model\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Interview.Model\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Model\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Interview.Model\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:02:37.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.ApiService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Interview.ApiService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.ApiService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Interview.ApiService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T15:24:59.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Interview.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\blazor-and-web-api\\Interview.Web\\Program.cs",
+              "RelativeToolTip": "Interview.Web\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T14:48:46.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

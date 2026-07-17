@@ -1,5 +1,9 @@
+using Blazored.Toast;
+using Blazored.Toast.Services;
 using Interview.Web;
+using Interview.Web.Authentication;
 using Interview.Web.Components;
+using Microsoft.AspNetCore.Components.Authorization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,13 +15,21 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddOutputCache();
+//changes start here
+builder.Services.AddAuthentication();
+builder.Services.AddCascadingAuthenticationState();
+builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthStateProvider>();
+//changes end here
 
-builder.Services.AddHttpClient<WeatherApiClient>(client =>
+
+builder.Services.AddHttpClient<ApiClient>(client =>
     {
         // This URL uses "https+http://" to indicate HTTPS is preferred over HTTP.
         // Learn more about service discovery scheme resolution at https://aka.ms/dotnet/sdschemes.
-        client.BaseAddress = new("https+http://apiservice");
+        client.BaseAddress = new("https+http://localhost:7477");
     });
+
+builder.Services.AddBlazoredToast();
 
 var app = builder.Build();
 
@@ -31,6 +43,11 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAntiforgery();
+
+//changes start here
+app.UseAuthentication();
+app.UseAuthorization();
+//changes end here
 
 app.UseOutputCache();
 

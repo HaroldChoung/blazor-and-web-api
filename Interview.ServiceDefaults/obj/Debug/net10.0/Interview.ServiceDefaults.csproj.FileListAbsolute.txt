@@ -10,6 +10,10 @@ C:\Users\User\source\repos\Interview\Interview.ServiceDefaults\obj\Debug\net10.0
 C:\Users\User\source\repos\Interview\Interview.ServiceDefaults\obj\Debug\net10.0\refint\Interview.ServiceDefaults.dll
 C:\Users\User\source\repos\Interview\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.pdb
 C:\Users\User\source\repos\Interview\Interview.ServiceDefaults\obj\Debug\net10.0\ref\Interview.ServiceDefaults.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\bin\Debug\net10.0\Interview.ServiceDefaults.deps.json
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\bin\Debug\net10.0\Interview.ServiceDefaults.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\bin\Debug\net10.0\Interview.ServiceDefaults.pdb
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.csproj.AssemblyReference.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.AssemblyInfoInputs.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.AssemblyInfo.cs
@@ -18,8 +22,4 @@ C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.dll
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\refint\Interview.ServiceDefaults.dll
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.pdb
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\bin\Debug\net10.0\Interview.ServiceDefaults.deps.json
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\bin\Debug\net10.0\Interview.ServiceDefaults.dll
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\bin\Debug\net10.0\Interview.ServiceDefaults.pdb
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\Interview.ServiceDefaults.csproj.AssemblyReference.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ServiceDefaults\obj\Debug\net10.0\ref\Interview.ServiceDefaults.dll

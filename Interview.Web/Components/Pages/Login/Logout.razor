@@ -1,0 +1,13 @@
+﻿@page "/logout"
+@using Interview.Web.Authentication
+@using Microsoft.AspNetCore.Components.Authorization
+@inject AuthenticationStateProvider AuthStateProvider
+@inject NavigationManager navigation;
+
+@code {
+	protected override async Task OnInitializedAsync()
+	{
+		((CustomAuthStateProvider)AuthStateProvider).MarkUserAsLogout();
+		navigation.NavigateTo("/login");
+	}
+}

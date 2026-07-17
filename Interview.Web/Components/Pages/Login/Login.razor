@@ -1,0 +1,49 @@
+﻿@page "/login"
+@using Interview.Web.Authentication
+@using Interview.Web.Components.Layout
+@using Interview.Model.Models
+@using Microsoft.AspNetCore.Components.Authorization
+@using System.Text.Json
+@layout EmptyLayout
+@inject ApiClient apiClient
+@inject NavigationManager navigate;
+@inject AuthenticationStateProvider AuthStateProvider;
+@rendermode InteractiveServer
+
+<div class="p-5">
+	<EditForm Model="loginModel" FormName="login" OnValidSubmit="HandleLogin" OnInvalidSubmit="@HandleInvalidSubmit">
+		<DataAnnotationsValidator />
+		<div class="form-group">
+			<label>Username</label>
+			<InputText id="username" class="form-control" @bind-Value="loginModel.Username" />
+			<ValidationMessage For="@(() => loginModel.Username)" />
+		</div>
+		<div class="form-group">
+			<label>Password</label>
+			<InputText id="password" class="form-control" @bind-Value="loginModel.Password" />
+			<ValidationMessage For="@(() => loginModel.Password)" />
+		</div>
+		<button type="submit" class="btn btn-primary mt-3">Login</button>
+	</EditForm>
+</div>
+@code {
+	private LoginModel loginModel = new LoginModel();
+	private async Task HandleLogin()
+	{
+		var res = await apiClient.PostAsync<LoginRespondModel, LoginModel>("/api/auth/login", loginModel);
+		if(res!=null && res.Token !=null)
+		{
+			//use custom state provider
+			await ((CustomAuthStateProvider)AuthStateProvider).MarkUserAsAuthenticated(res.Token);
+			navigate.NavigateTo("/");
+		}
+	}
+	private void HandleInvalidSubmit()
+	{
+		// This fires when validation fails
+		Console.WriteLine($"Username value: '{loginModel.Username}'");
+		Console.WriteLine($"Password value: '{loginModel.Password}'");
+		
+		Console.WriteLine($"Model state: {loginModel}");
+	}
+}

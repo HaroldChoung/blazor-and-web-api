@@ -111,11 +111,9 @@ C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.AssemblyInfoInputs.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.AssemblyInfo.cs
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.sourcelink.json
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.dll
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\refint\Interview.ApiService.dll
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.pdb
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\appsettings.json
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Interview.ApiService.staticwebassets.endpoints.json
@@ -126,7 +124,7 @@ C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Interview.ApiService.pdb
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Azure.Core.dll
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Azure.Identity.dll
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
@@ -200,7 +198,6 @@ C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Interview.Model.pdb
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Interview.ServiceDefaults.pdb
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Interview.Database.pdb
-C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -212,5 +209,9 @@ C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\swae.build.ex.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Intervie.9825676B.Up2Date
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\refint\Interview.ApiService.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.pdb
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\Interview.ApiService.genruntimeconfig.cache
 C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\obj\Debug\net10.0\ref\Interview.ApiService.dll
+C:\Users\PC\Source\Repos\blazor-and-web-api\Interview.ApiService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll

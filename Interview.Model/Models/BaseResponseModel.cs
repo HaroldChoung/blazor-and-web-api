@@ -6,9 +6,10 @@ namespace Interview.Model.Models
 {
     public class BaseResponseModel
     {
-        public Boolean Success { get; set; }
-        public String Message { get; set; }
+        public Boolean success { get; set; }
+        public String message { get; set; }
 
-        public object Data { get; set; }
+        public object data { get; set; }
+        public string ErrorMessage { get; set; }
     }
 }

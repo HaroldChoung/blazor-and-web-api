@@ -1,0 +1,27 @@
+﻿@page "/employee/update/{ID:int}"
+@rendermode InteractiveServer
+
+<PageTitle>Update Employee</PageTitle>
+<EditForm OnValidSubmit="Submit" FormName="EditEmployee" Model="Model">
+	<div class="container">
+		<div class="row mb-3">
+			<div class="md-col-6">
+				<label>Employee Name</label>
+				<InputText class="form-control" @bind-Value="Model.employeeName" />
+				<ValidationMessage For="@(() => Model.employeeName)" />
+			</div>
+			<div class="md-col-6">
+				<label>Department</label>
+				<InputSelect class="form-control" @bind-Value="Model.departmentID">
+					<option value="0">-- Choose a department --</option>
+					@foreach (var d in departmentModel)
+					{
+						<option value="@d.id">@d.departmentName</option>
+					}
+				</InputSelect>
+				<ValidationMessage For="@(() => Model.departmentID)" />
+			</div>
+		</div>
+		<button class="btn  btn-secondary" type="Submit">Save</button>
+	</div>
+</EditForm>

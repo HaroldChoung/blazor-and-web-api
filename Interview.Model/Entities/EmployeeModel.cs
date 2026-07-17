@@ -8,15 +8,15 @@ namespace Interview.Model.Entities
 {
     public class EmployeeModel
     {
-        public int Id { get; set; }
-        public string EmployeeName { get; set; }
+        public int id { get; set; }
+        public string employeeName { get; set; }
 
         //public DepartmentModel DepartmentID { get; set; }
         
         [ForeignKey("Department")]
-        public int DepartmentID { get; set; }
+        public int departmentID { get; set; }
 
-       public DepartmentModel department { get; set; }
+        public virtual DepartmentModel department { get; set; }
         
 
     }
